@@ -30,6 +30,7 @@ body {
 
 body {
   background: url(../img/cover.jpg) no-repeat center center fixed;
+  background-blend-mode: luminosity;
   background-size: cover;
   color: #fff;
   text-align: center;
